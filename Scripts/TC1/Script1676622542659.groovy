@@ -25,7 +25,5 @@ WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Username_us
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_OrangeHRM/input_Password_password'), Keys.chord(Keys.ENTER))
-
 WebUI.closeBrowser()
 

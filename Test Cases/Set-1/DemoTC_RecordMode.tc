@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>This test case is a practise one and to learn how to create test case in record mode.</description>
-   <name>DemoTC_RecordMode</name>
-   <tag>FirstTestCase, DemoTestCase, Demo, Sample, First, Practice</tag>
-   <comment></comment>
-   <testCaseGuid>4a374edf-72e0-4e58-bf20-d936fd733034</testCaseGuid>
-</TestCaseEntity>
